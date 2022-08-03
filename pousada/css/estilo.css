@@ -1,0 +1,116 @@
+body{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.ini{background-color: rgb(243, 243, 250);
+display: flex;
+justify-content: space-between;
+position: fixed;
+width: 100%;
+top:0%
+}
+
+a{text-decoration: none;}
+
+.topo{
+height: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top:0%;}
+
+.topo a{padding:15px;
+text-decoration: none;
+align-content: center;
+}
+
+span{color:brown}
+
+.link-cab{font-size: 15px;
+margin-left: 990px;
+}
+
+.par-meio{background-color: rgb(4, 0, 8);
+    opacity: 0.5;
+width: 400px;
+height: 150px;
+}
+
+.par-meio h1{color: antiquewhite;
+    font-weight: bold;
+    font-size: 40px;
+margin-left: 60px;}
+    
+    .par-meio p{color: antiquewhite;
+        font-weight: bold;
+        font-size: 15px;margin-left: 60px;}
+
+.seja-vindo{text-align: center;}
+
+.cont-cont{display: flex;
+    justify-content: space-around
+}
+
+.cont-1{ 
+border-bottom:  2px solid black;
+text-align: center;
+font-size: 15px;}
+
+.mapa{height: 300px;
+border: 1px solid;}
+
+#sobre{text-align: center;}
+
+.lista .cont-lista{ display: flex;
+    width: 650px;
+    height: 150px;
+    flex-wrap: wrap;
+border: 1px solid;
+border-radius: 10px 10px 10px 10px;
+background-color:#fff}
+
+.lista{ display: flex;
+    width: 100%;
+    height: 400px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: aqua
+}
+
+.cont-lista img{ width: 100px;
+    height: 130px;
+margin-left: 35px;
+margin-top: 10px;}
+
+.cont-cont1{
+height: 130px;
+width: 500px;
+display: flex;
+flex-direction: column;
+}
+
+.cont-cont1 p{margin-left: 10px;}
+
+.cont-cont1 h3{margin-left:10px ;}
+
+.rodape-icone {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+  }
+
+  .rodape-info{width: 23%;
+color: #fff;}
+
+  .tam-max-cont{width: 100%;
+    display: flex;
+justify-content: space-between;
+background-color: aqua;}
+
+.final{text-align: center;
+background-color: aqua;
+margin-top: 0%;}
+
+.rodape-info .rodape-icone{margin-left: 100px;}
+
+.cont-lista{margin-top: 30px;}
+
+

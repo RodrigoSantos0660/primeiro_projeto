@@ -1,0 +1,37 @@
+.img1{width: 100%;
+height: 300px;
+overflow:scroll;}
+
+#solteiro h1{margin-left: 480px;}
+#solteiro p{margin-left: 525px;}
+
+.cont-img{
+display: flex;
+justify-content: space-around;
+align-items: flex-start;
+flex-flow: row wrap;}
+
+.qsolt img{width: 400px; height: 300px;}
+.qsolt{width: 400px; height: 300px;}
+
+.titulo-lista{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;}
+
+.itens-quartos{width: 75%;
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;}
+
+.itens-quarto li{width: 25%;
+    text-align: left;
+    margin-top: 10px;
+  }
+
+#casal h2{margin-left: 580px;}
+#casal p{margin-left: 550px;}
+
+#familia h2{margin-left: 580px;}
+#familia p{margin-left: 550px}
